@@ -12,13 +12,13 @@ export const codingProjects = [
 ];
 
 export const uiUxDesigns = [
-    { title: "Music App Concept", image: "https://picsum.photos/seed/ui1/800/600", aiHint: "music player" },
-    { title: "Fitness Tracker Dashboard", image: "https://picsum.photos/seed/ui2/800/600", aiHint: "dashboard chart" },
-    { title: "Travel Booking Site", image: "https://picsum.photos/seed/ui3/800/600", aiHint: "travel website" },
-    { title: "Smart Home Controller", image: "https://picsum.photos/seed/ui4/800/600", aiHint: "smart home" },
+    { title: "Oddywears", image: "/docs/oddy.png", aiHint: "Clothing Brand", link: "https://oddywears.vercel.app/" },
+    { title: "Airmedia", image: "/docs/airmedia.png", aiHint: "News media", link: "https://www.airmediaa.com" },
+    { title: "campusFlow", image: "/docs/cf.png", aiHint: "Campus ERP Application", link: "https://www.behance.net/gallery/243470319/Campuflow?platform=direct" },
 ];
 
 export const videoEditing = [
+    { title: "CampusFlow", description: "Student ERP Application", image: "/docs/cf.png", link: "https://www.youtube.com/watch?v=OYaea6MScIY", aiHint: "SAAS video" },
     { title: "Broskie", description: "Pokemon Autocather Captha resolver.", image: "/docs/bros.png", link: "https://www.youtube.com/watch?v=k-jwhHXKRUY", aiHint: "youtube thumbnail" },
     { title: "Deepfakes", description: "A breif video on deepfakes.", image: "/docs/deep.jpg", link: "https://www.youtube.com/watch?v=aQbhdbcj1rk&t=19s", aiHint: "personal" },
     { title: "Cinematic", description: "My personal cinematic video.", image: "/docs/sol.png", link: "https://drive.google.com/file/d/1iNUKpNmVLQWykrcLWupxbv1TChfx_iXw/view?usp=sharing", aiHint: "cinematic video" },

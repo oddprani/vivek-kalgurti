@@ -6,7 +6,7 @@ import { Download } from "lucide-react";
 import TypingAnimation from "../typing-animation";
 
 const socialLinks = [
-    { icon: Instagram, href: "https://www.instagram.com/vivekkalgurti/", name: "Instagram" },
+    { icon: Instagram, href: "https://www.instagram.com/vivekcreates", name: "Instagram" },
     { icon: Youtube, href: "https://www.youtube.com/@oddpranii?si=J7k5ic9GkSw2LMUu", name: "YouTube" },
     { icon: Twitter, href: "https://x.com/vivekkalgurti", name: "Twitter" },
     { icon: Linkedin, href: "https://www.linkedin.com/in/vivek-kalgurti", name: "LinkedIn" },
