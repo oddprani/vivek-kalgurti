@@ -8,7 +8,7 @@ export const codingProjects = [
     { title: "CRUD Application", description: "a simple CRUD application.", image: "/docs/crud.jpg", link: "https://github.com/oddprani/CRUD_app", aiHint: "CRUD" },
     { title: "Vaulify", description: "A block-chain based Vault system.", image: "/docs/vault.jpg", link: "https://github.com/oddprani/vaultify-blockchain-storage", aiHint: "block-chain Vault" },
     { title: "Weather-Vibe", description: "Simple Weather Application.", image: "/docs/wv.jpg", link: "https://github.com/oddprani/Weather-vibe", aiHint: "Weaher voooo" },
-    { title: "Oddywears", description: "My Clothing brand!.", image: "/docs/od.jpg", link: "https://github.com/oddprani/oddywears", aiHint: "Fashion" },
+    { title: "Oddywears", description: "My Clothing brand!.", image: "/docs/od.jpg", link: "https://oddywears.in", aiHint: "Fashion" },
 ];
 
 export const uiUxDesigns = [
