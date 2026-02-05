@@ -42,7 +42,7 @@ export default function HeroSection() {
                                 View My Work
                             </Button>
                         </Link>
-                         <a href="/VIVEKANAND-S-KALGURTI.pdf" download>
+                         <a href="/Vivek-kalgurti-resume.pdf" download>
                             <Button variant="outline" size="lg" className="w-full sm:w-auto">
                                 <Download className="mr-2 h-5 w-5" />
                                 Download CV
