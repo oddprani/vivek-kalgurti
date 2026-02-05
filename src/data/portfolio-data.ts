@@ -12,7 +12,7 @@ export const codingProjects = [
 ];
 
 export const uiUxDesigns = [
-    { title: "Oddywears", image: "/docs/oddy.png", aiHint: "Clothing Brand", link: "https://oddywears.vercel.app/" },
+    { title: "Oddywears", image: "/docs/oddy.png", aiHint: "Clothing Brand", link: "https://oddywears.in/" },
     { title: "Airmedia", image: "/docs/airmedia.png", aiHint: "News media", link: "https://www.airmediaa.com" },
     { title: "campusFlow", image: "/docs/cf.png", aiHint: "Campus ERP Application", link: "https://www.behance.net/gallery/243470319/Campuflow?platform=direct" },
 ];
